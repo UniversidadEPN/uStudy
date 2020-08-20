@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.epn.proyectomoviles">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_icono_us"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_icono_us_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+      
+        <activity android:name=".DetalleServicio" />
+        <activity android:name=".ProvideService"></activity>
+        <activity android:name=".bibliotecas" />
+        <activity
+            android:name=".DetailActivity"
+            android:theme="@style/AppTheme.TemaDetail" />
+        <activity android:name=".Topicos"></activity>
+        <activity android:name=".registro_est_celular" />
+        <activity android:name=".registro_est_verif" />
+        <activity android:name=".registroEstudiante" />
+        <activity android:name=".SelectDateActivity" />
+        <activity android:name=".ServiciosRealizados" />
+        <activity android:name=".activity_navegation"/>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+  
+    </application>
+
+</manifest>

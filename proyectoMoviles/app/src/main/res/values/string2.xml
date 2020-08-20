@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="image">imagen de fondo</string>
+
+    <string name="topicFisica1">La Ciencia y la Física</string>
+    <string name="topicFisica2">Cinemática de la partícula</string>
+    <string name="topicFisica3">Dinámica de la partícula</string>
+    <string name="topicFisica4">Dinámica rotacional</string>
+    <string name="topicFisica5">Trabajo y Energía: Conservacíon</string>
+
+    <string name="topicMate1">Introducción a la Lógica Matemática</string>
+    <string name="topicMate2">Introducción a la Teoría de Conjuntos</string>
+    <string name="topicMate3">Los números Reales</string>
+    <string name="topicMate4">Funciones Reales</string>
+    <string name="topicMate5">Los números Reales</string>
+
+    <string name="topicGeo1">Segmentos</string>
+    <string name="topicGeo2">Geometría Plana</string>
+    <string name="topicGeo3">Geometría del espacio</string>
+    <string name="topicGeo4">Geometría Analítica</string>
+    <string name="topicGeo5">Trigonometría</string>
+
+    <string name="topicQuim1">Estructura Atómica</string>
+    <string name="topicQuim2">Tabla Periódica Moderna</string>
+    <string name="topicQuim3">Enlace Químico y Estructura Molecular</string>
+    <string name="topicQuim4">Compuestos Químicos Inorgánicos</string>
+    <string name="topicQuim5">Reacciones Químicas y Cálculos Estequiométricos</string>
+
+    <string name="materia">materia</string>
+    <string name="otroTopico">Algún otro tópico</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+
+
+
+</resources>
